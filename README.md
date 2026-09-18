@@ -17,7 +17,7 @@ My journey into cybersecurity began with the goal of expanding this belief into 
 ## 🎓 Educational & Professional Background
 
 - 🎓 Background in **Education**, specialized in Biology, with extensive experience as a teacher, mentor, and program coordinator, focused on knowledge transfer, learning development, and capacity building.  
-- 📘 Completed: **Google Cybersecurity Professional Certificate**, where I gained practical, hands-on experience in:
+- 📘 Completed:CompTIA and  Google Cybersecurity Professional Certificate**, where I gained practical, hands-on experience in:
   - Security risk management and incident response  
   - Network and systems security fundamentals  
   - Tools like **Wireshark**, **Nmap**, and **SIEM platforms**  
@@ -105,22 +105,17 @@ Here, I will:
 **Skills:** Task Automation · Digital Administration · Time Management  
 
 ### 🔐 In Progress  
-- TryHackMe Cyber Labs (Hands-on Practice)  
-- CompTIA Security+ (SY0-701) Certification Preparation  
+- TryHackMe SAL 1
+   
 
 ---
 
 ## 📘 Next Steps
 
-I will begin by uploading my **documented work from the Google Cybersecurity Professional Certificate**, including analysis reports, risk assessments, and incident simulations.  
-Afterward, I will proceed to my **TryHackMe project phase**, focusing on:
-- Real-world attack and defense simulations  
-- Penetration testing basics  
-- SOC (Security Operations Center) analysis and alert triage  
+
 
 This repository will evolve into a comprehensive record of my growth, combining structured documentation with practical learning experiences.
 
----
 
 ## 🔗 Connect With Me
 - 📧 **Email:** lateefadekola1234@gmail.com  
