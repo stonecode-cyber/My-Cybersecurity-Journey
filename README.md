@@ -64,6 +64,8 @@ Here, I will:
 ---
 
 ## 🎓 Licenses & Certifications
+###CompTIAsec+
+https://www.credly.com/badges/7ad44723-8d95-4f92-be5e-190b163ecdc5/public_url
 
 ### 🧠 Google Cybersecurity Professional Certificate (Coursera)  
 **Issuer:** Google via Coursera | **Issued:** August 2025  
