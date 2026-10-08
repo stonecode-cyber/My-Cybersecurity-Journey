@@ -7,7 +7,7 @@ This space captures my learning process, hands-on documentation, and project wor
 
 ## 👤 About Me
 
-I'm **Lateef Abiodun Adekola**, an educator turned cybersecurity enthusiast.  
+I'm **Lateef Abiodun Adekola**, an educator turnedcybersecurity enthusiast as a  SOC analyst.
 With a strong background in education, mentoring, and community development, I’ve always been driven by the belief that *knowledge becomes powerful when shared for positive change.*  
 
 My journey into cybersecurity began with the goal of expanding this belief into the digital space, ensuring that information, systems, and people remain secure through awareness, best practices, and technical expertise.
